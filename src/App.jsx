@@ -6,7 +6,7 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Blog from './pages/Blog';
 import Cart from './pages/Cart';
-import Checkout from './pages/Checkout';
+import Checkout from './pages/CheckOut';
 import ProductList from './pages/ProductList';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
