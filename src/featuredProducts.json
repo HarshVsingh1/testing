@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Diamond Crystal Ring", "price": 3100, "discount": 50, "image": "/api/placeholder/300/300" },
+    { "id": 2, "name": "Diamond Crystal Ring", "price": 3100, "discount": 50, "image": "/api/placeholder/300/300" },
+    { "id": 3, "name": "Diamond Crystal Ring", "price": 3100, "discount": 50, "image": "/api/placeholder/300/300" },
+    { "id": 4, "name": "Diamond Crystal Ring", "price": 3100, "discount": 50, "image": "/api/placeholder/300/300" }
+  ]
+  

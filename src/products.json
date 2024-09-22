@@ -1,0 +1,16 @@
+[
+  { "id": 1, "name": "Diamond Crystal Ring", "oldPrice": 5000, "newPrice": 2500, "discount": 50, "image": "/photos/product2.png" },
+  { "id": 2, "name": "Sapphire Crystal Ring", "oldPrice": 3000, "newPrice": 1500, "discount": 50, "image": "/photos/product3.png" },
+  { "id": 3, "name": "Pearl Necklace", "oldPrice": 3000, "newPrice": 1500, "discount": 50, "image": "/photos/product4.png" },
+  { "id": 4, "name": "Diamond Ring Set", "oldPrice": 5000, "newPrice": 2500, "discount": 50, "image": "/photos/product1.png" },
+  { "id": 5, "name": "Gold Bracelet", "oldPrice": 3000, "newPrice": 1500, "discount": 50, "image": "/photos/product6.png" },
+  { "id": 6, "name": "Silver Earrings", "oldPrice": 3000, "newPrice": 1500, "discount": 50, "image": "/photos/product7.png" },
+  { "id": 7, "name": "Ruby Ring", "oldPrice": 5000, "newPrice": 2500, "discount": 50, "image": "/photos/product8.png" },
+  { "id": 8, "name": "Pearl Earrings", "oldPrice": 3000, "newPrice": 1500, "discount": 50, "image": "/photos/product9.png" },
+  { "id": 9, "name": "Gold Hoop Earrings", "oldPrice": 3000, "newPrice": 1500, "discount": 50, "image": "/photos/product10.png" },
+  { "id": 10, "name": "Gold Hoop Earrings", "oldPrice": 3000, "newPrice": 1500, "discount": 50, "image": "/photos/product11.png" },
+  { "id": 11, "name": "Gold Hoop Earrings", "oldPrice": 3000, "newPrice": 1500, "discount": 50, "image": "/photos/product12.png" },
+  { "id": 12, "name": "Gold Hoop Earrings", "oldPrice": 3000, "newPrice": 1500, "discount": 50, "image": "/photos/product13.png" },
+  { "id": 13, "name": "Gold Hoop Earrings", "oldPrice": 3000, "newPrice": 1500, "discount": 50, "image": "/photos/product13.png" },
+  { "id": 14, "name": "Gold Hoop Earrings", "oldPrice": 3000, "newPrice": 1500, "discount": 50, "image": "/photos/product13.png" }
+]
